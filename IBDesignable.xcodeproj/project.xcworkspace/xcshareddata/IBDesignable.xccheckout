@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>16990FF4-4C79-4305-B28D-37C26B4BFAD3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IBDesignable</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DACD643F2D60ED4088ABA9514FB20A634B6CF0ED</key>
+		<string>github.com:timfuqua/IBDesignable-Demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IBDesignable.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DACD643F2D60ED4088ABA9514FB20A634B6CF0ED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:timfuqua/IBDesignable-Demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DACD643F2D60ED4088ABA9514FB20A634B6CF0ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DACD643F2D60ED4088ABA9514FB20A634B6CF0ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IBDesignable-Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
